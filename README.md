@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Front-End Developer | React.js | Next.js | React Native | Redux | Tailwind CSS</h3>
 
 <p align="center">
-  <img src="assets/profile.png" width="200" height="200" alt="Haseeb Profile" style="border-radius: 50%;" />
+  <img src="gitImage.jpg" width="600" height="200" alt="Haseeb Profile" style="border-radius: 50%;" />
 </p>
 
 ---
