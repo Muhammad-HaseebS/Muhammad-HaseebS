@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Haseeb</h1>
 <h3 align="center">🚀 Front-End Developer | React.js | Next.js | React Native | Redux | Tailwind CSS</h3>
 
-<p>
-  <img src="gitImage.jpg" width="300" height="300" alt="Profile Picture" style="border-radius: 50%;" />
+<p align="center">
+  <img src="gitImage.jpg" width="600" height="300" alt="Profile Picture" style="border-radius: 50%;" />
 </p>
 
 ---
