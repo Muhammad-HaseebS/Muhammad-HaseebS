@@ -31,7 +31,7 @@ I'm a passionate Front-End Developer with 2+ years of experience in crafting res
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Haseeb5&show_icons=true&theme=react&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Haseeb5&show_icons=true&theme=react&hide_title=true" alt="Haseeb's GitHub Stats" />
 </p>
 
 ---
@@ -42,10 +42,10 @@ I'm a passionate Front-End Developer with 2+ years of experience in crafting res
   <a href="https://www.linkedin.com/in/muhammad-haseeb-43b84b2b4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="mailto:mhaseebdev@gmail.com">
+  <a href="haseebmuhammad193@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
   </a>
-  <a href="https://github.com/Muhammad-Haseeb5" target="_blank">
+  <a href="https://github.com/Muhammad-HaseebS" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" />
   </a>
 </p>
